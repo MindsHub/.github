@@ -3,7 +3,7 @@
 
 👨‍💻 All projects are available at [https://mindshub.it](https://mindshub.it)
 
-📫 How to reach us: **info@mindshub.it**
+📫 How to reach us: **info[at]mindshub.it**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
