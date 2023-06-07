@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, We are MindsHub</h1>
 <h3 align="center">We are an Italian Non-profit Association.</h3>
 
-- 👨‍💻 All projects are available at [https://mindshub.it](https://mindshub.it)
+👨‍💻 All projects are available at [https://mindshub.it](https://mindshub.it)
 
-- 📫 How to reach us: **info@mindshub.it**
+📫 How to reach us: **info@mindshub.it**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
